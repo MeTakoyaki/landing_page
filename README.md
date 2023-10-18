@@ -1,2 +1,2 @@
-# ssh
-panduan untuk melakukan set up ssh
+# Takoyaki's Page 
+halaman untuk profile lengkap saya
